@@ -65,7 +65,7 @@ def decrypt(filelist_crypt):
                     break
             else:
                 continue
-            print("errors")
+            print("Error")
     file_pswd.close()
 
 def main():
